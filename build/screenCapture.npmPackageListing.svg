@@ -1,37 +1,39 @@
-<svg height="542" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="542" fill="#555" width="720"></rect>
+<svg height="574" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="574" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-07 10:34:19 +0000   174720 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-07 10:34:19 +0000     1083 bytes  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-07 10:34:19 +0000    15186 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-07 10:34:19 +0000      604 bytes  android/build.gradle</tspan>
-<tspan x="10" y="90">  4.  2017-04-07 10:34:19 +0000      651 bytes  android/src/main/AndroidManifest.xml</tspan>
-<tspan x="10" y="106">  5.  2017-04-07 10:34:19 +0000    18138 bytes  android/src/main/java/com/lwansbrough/RCTCamera/\</tspan>
-<tspan x="10" y="122">RCTCamera.java</tspan>
-<tspan x="10" y="138">  6.  2017-04-07 10:34:19 +0000    34435 bytes  android/src/main/java/com/lwansbrough/RCTCamera/\</tspan>
-<tspan x="10" y="154">RCTCameraModule.java</tspan>
-<tspan x="10" y="170">  7.  2017-04-07 10:34:19 +0000     1036 bytes  android/src/main/java/com/lwansbrough/RCTCamera/\</tspan>
-<tspan x="10" y="186">RCTCameraPackage.java</tspan>
-<tspan x="10" y="202">  8.  2017-04-07 10:34:19 +0000     6540 bytes  android/src/main/java/com/lwansbrough/RCTCamera/\</tspan>
-<tspan x="10" y="218">RCTCameraView.java</tspan>
-<tspan x="10" y="234">  9.  2017-04-07 10:34:19 +0000    13945 bytes  android/src/main/java/com/lwansbrough/RCTCamera/\</tspan>
-<tspan x="10" y="250">RCTCameraViewFinder.java</tspan>
-<tspan x="10" y="266"> 10.  2017-04-07 10:34:19 +0000     2985 bytes  android/src/main/java/com/lwansbrough/RCTCamera/\</tspan>
-<tspan x="10" y="282">RCTCameraViewManager.java</tspan>
-<tspan x="10" y="298"> 11.  2017-04-07 10:34:19 +0000     2407 bytes  android/src/main/java/com/lwansbrough/RCTCamera/\</tspan>
-<tspan x="10" y="314">RCTSensorOrientationChecker.java</tspan>
-<tspan x="10" y="330"> 12.  2017-04-07 10:34:19 +0000     7349 bytes  index.js</tspan>
-<tspan x="10" y="346"> 13.  2017-04-07 10:34:19 +0000       69 bytes  ios/CameraFocusSquare.h</tspan>
-<tspan x="10" y="362"> 14.  2017-04-07 10:34:19 +0000      872 bytes  ios/CameraFocusSquare.m</tspan>
-<tspan x="10" y="378"> 15.  2017-04-07 10:34:19 +0000     3405 bytes  ios/NSMutableDictionary+ImageMetadata.m</tspan>
-<tspan x="10" y="394"> 16.  2017-04-07 10:34:19 +0000      233 bytes  ios/RCTCamera.h</tspan>
-<tspan x="10" y="410"> 17.  2017-04-07 10:34:19 +0000     5553 bytes  ios/RCTCamera.m</tspan>
-<tspan x="10" y="426"> 18.  2017-04-07 10:34:19 +0000    10351 bytes  ios/RCTCamera.xcodeproj/project.pbxproj</tspan>
-<tspan x="10" y="442"> 19.  2017-04-07 10:34:19 +0000     3726 bytes  ios/RCTCameraManager.h</tspan>
-<tspan x="10" y="458"> 20.  2017-04-07 10:34:19 +0000    39130 bytes  ios/RCTCameraManager.m</tspan>
-<tspan x="10" y="474"> 21.  2017-04-07 10:34:19 +0000      531 bytes  ios/RCTSensorOrientationChecker.h</tspan>
-<tspan x="10" y="490"> 22.  2017-04-07 10:34:19 +0000     3131 bytes  ios/RCTSensorOrientationChecker.m</tspan>
-<tspan x="10" y="506"> 23.  2017-04-07 10:34:19 +0000     2662 bytes  package.json</tspan>
-<tspan x="10" y="522"> 24.  2017-04-07 10:34:19 +0000      698 bytes  react-native-camera.podspec</tspan>
+<tspan x="10" y="26">  0.  2017-04-19 17:09:24 +0000   182698 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 17:09:24 +0000     1083 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 17:09:24 +0000    16611 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 17:09:24 +0000      604 bytes  android/build.gradle</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 17:09:24 +0000      358 bytes  android/src/main/AndroidManifest.xml</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 17:09:24 +0000     9458 bytes  android/src/main/java/com/lwansbrough/RCTCamera/\</tspan>
+<tspan x="10" y="122">MutableImage.java</tspan>
+<tspan x="10" y="138">  6.  2017-04-19 17:09:24 +0000    18138 bytes  android/src/main/java/com/lwansbrough/RCTCamera/\</tspan>
+<tspan x="10" y="154">RCTCamera.java</tspan>
+<tspan x="10" y="170">  7.  2017-04-19 17:09:24 +0000    31001 bytes  android/src/main/java/com/lwansbrough/RCTCamera/\</tspan>
+<tspan x="10" y="186">RCTCameraModule.java</tspan>
+<tspan x="10" y="202">  8.  2017-04-19 17:09:24 +0000     1036 bytes  android/src/main/java/com/lwansbrough/RCTCamera/\</tspan>
+<tspan x="10" y="218">RCTCameraPackage.java</tspan>
+<tspan x="10" y="234">  9.  2017-04-19 17:09:24 +0000     6540 bytes  android/src/main/java/com/lwansbrough/RCTCamera/\</tspan>
+<tspan x="10" y="250">RCTCameraView.java</tspan>
+<tspan x="10" y="266"> 10.  2017-04-19 17:09:24 +0000    14159 bytes  android/src/main/java/com/lwansbrough/RCTCamera/\</tspan>
+<tspan x="10" y="282">RCTCameraViewFinder.java</tspan>
+<tspan x="10" y="298"> 11.  2017-04-19 17:09:24 +0000     2985 bytes  android/src/main/java/com/lwansbrough/RCTCamera/\</tspan>
+<tspan x="10" y="314">RCTCameraViewManager.java</tspan>
+<tspan x="10" y="330"> 12.  2017-04-19 17:09:24 +0000     2407 bytes  android/src/main/java/com/lwansbrough/RCTCamera/\</tspan>
+<tspan x="10" y="346">RCTSensorOrientationChecker.java</tspan>
+<tspan x="10" y="362"> 13.  2017-04-19 17:09:24 +0000     7349 bytes  index.js</tspan>
+<tspan x="10" y="378"> 14.  2017-04-19 17:09:24 +0000       69 bytes  ios/CameraFocusSquare.h</tspan>
+<tspan x="10" y="394"> 15.  2017-04-19 17:09:24 +0000      872 bytes  ios/CameraFocusSquare.m</tspan>
+<tspan x="10" y="410"> 16.  2017-04-19 17:09:24 +0000     3405 bytes  ios/NSMutableDictionary+ImageMetadata.m</tspan>
+<tspan x="10" y="426"> 17.  2017-04-19 17:09:24 +0000      233 bytes  ios/RCTCamera.h</tspan>
+<tspan x="10" y="442"> 18.  2017-04-19 17:09:24 +0000     5553 bytes  ios/RCTCamera.m</tspan>
+<tspan x="10" y="458"> 19.  2017-04-19 17:09:24 +0000    10351 bytes  ios/RCTCamera.xcodeproj/project.pbxproj</tspan>
+<tspan x="10" y="474"> 20.  2017-04-19 17:09:24 +0000     3726 bytes  ios/RCTCameraManager.h</tspan>
+<tspan x="10" y="490"> 21.  2017-04-19 17:09:24 +0000    39737 bytes  ios/RCTCameraManager.m</tspan>
+<tspan x="10" y="506"> 22.  2017-04-19 17:09:24 +0000      531 bytes  ios/RCTSensorOrientationChecker.h</tspan>
+<tspan x="10" y="522"> 23.  2017-04-19 17:09:24 +0000     3131 bytes  ios/RCTSensorOrientationChecker.m</tspan>
+<tspan x="10" y="538"> 24.  2017-04-19 17:09:24 +0000     2663 bytes  package.json</tspan>
+<tspan x="10" y="554"> 25.  2017-04-19 17:09:24 +0000      698 bytes  react-native-camera.podspec</tspan>
 </text>
 </svg>
