@@ -1,6 +1,6 @@
 # npmdoc-react-native-camera
 
-#### api documentation for  [react-native-camera (v0.7.0)](https://github.com/lwansbrough/react-native-camera)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-native-camera.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-native-camera) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-native-camera.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-native-camera)
+#### basic api documentation for  [react-native-camera (v0.7.0)](https://github.com/lwansbrough/react-native-camera)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-native-camera.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-native-camera) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-native-camera.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-native-camera)
 
 #### A Camera component for React Native. Also reads barcodes.
 
@@ -68,7 +68,8 @@
         "url": "git+https://github.com/lwansbrough/react-native-camera.git"
     },
     "scripts": {},
-    "version": "0.7.0"
+    "version": "0.7.0",
+    "bin": {}
 }
 ```
 
